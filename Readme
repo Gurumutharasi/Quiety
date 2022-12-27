@@ -1,0 +1,5 @@
+1)install node, 
+  2)install gulp " npm install -g gulp "  , 
+  3) gulp -v ,
+   4)node -v (or) node --version 
+   5)npm install 6)npm run start
